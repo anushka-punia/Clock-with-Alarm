@@ -63,7 +63,8 @@ c_min0,a_min0 : The least significant minute digit of the temp clock and alarm.
 
 c_sec1,a_sec1 : The most significant second digit of the temp clock and alarm.
 
-c_sec0,a_sec0 : The least significant minute digit of the temp clock and alarm.
+c_sec0,a_sec0 : The  least significant minute digit of the temp clock and alarm.
+
 
 
 
